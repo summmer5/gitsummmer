@@ -1,29 +1,44 @@
-<!-- 배너 이미지 중앙 정렬 -->
 <p align="center">
-  <img src="x" alt="Hamster Project Banner" width="800"/>
+  <img src="https://github.com/사용자명/저장소명/blob/main/assets/banner.png?raw=true" width="800" alt="Banner"/>
 </p>
 
-<h1 align="center">🐹 Hamster Project</h1>
+<h1 align="center">Summmer5</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/license-X-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/made%20with-%F0%9F%90%B9%20code-ff69b4?style=flat-square" />
+  💻 Junior Web Developer &nbsp;|&nbsp; Passionate about building intuitive software
 </p>
 
 ---
 
-## 🌟 소개
+## 🧩 About Me
 
-햄스터 프로젝트입니다!  
-누구나 쉽게 이해할 수 있는 재밌는 코딩배우기.
+- 🔭 I'm currently working on improving my full-stack web development skills.
+- 💡 I enjoy building projects that are simple and solve real-world problems.
+- 🌱 Currently learning: **TypeScript**, **React**, **Express**, **MySQL**
+- 💬 Ask me about: JavaScript, Git, basic backend concepts
 
 ---
 
-## 🚀 설치 방법
+## 🛠️ Tech Stack
 
-```bash
-예) git clone https://github.com/사용자명/저장소명.git
-예) cd 저장소명
-예) npm install
-예) npm start
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: MySQL, MongoDB (기초)
+- Tools: Git, VSCode, Postman
+
+---
+
+## 📁 Notable Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [My Portfolio](https://github.com/사용자명/portfolio) | 개인 포트폴리오 웹사이트 | React, SCSS |
+| [Todo API](https://github.com/사용자명/todo-api) | RESTful API with Node | Express, MySQL |
+
+---
+
+## 📫 Contact
+
+- Email: yourmail@example.com
+- Blog: https://yourblog.com
+- LinkedIn: https://linkedin.com/in/yourname
