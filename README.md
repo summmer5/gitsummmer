@@ -39,6 +39,6 @@
 
 ## 📫 Contact
 
-- Email: yourmail@example.com
-- Blog: https://yourblog.com
-- LinkedIn: https://linkedin.com/in/yourname
+- Email: jisun131200@gmail.com
+- Blog: 
+- LinkedIn: 
